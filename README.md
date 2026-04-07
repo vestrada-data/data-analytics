@@ -7,6 +7,7 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 El objetivo principal es realizar un Análisis Exploratorio de Datos (EDA) para visualizar la distribución del PIB frente a las métricas de retraso, buscando patrones o correlaciones significativas que ayuden a la toma de decisiones estratégicas.
 
 🛠️ Herramientas Utilizadas
+
 Lenguaje: Python 3.x
 Librerías de Datos: Pandas, NumPy
 Visualización: Matplotlib, Seaborn
