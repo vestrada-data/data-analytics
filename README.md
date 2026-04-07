@@ -1,5 +1,6 @@
 # data-analytics-portfolio
-Análisis de Movilidad vs. Desarrollo Económico (PIB)
+# Análisis de Movilidad vs. Desarrollo Económico (PIB)
+
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta (o se ve impactado por) la eficiencia en el transporte.
 
 📊 Descripción del Proyecto
@@ -7,34 +8,24 @@ El objetivo principal es realizar un Análisis Exploratorio de Datos (EDA) para 
 
 🛠️ Herramientas Utilizadas
 Lenguaje: Python 3.x
-
 Librerías de Datos: Pandas, NumPy
-
 Visualización: Matplotlib, Seaborn
-
 Base de Datos: SQL (Extracción y limpieza inicial)
-
 Documentación: Markdown
 
 📁 Estructura del Repositorio
 data/: Contiene los datasets originales (o enlaces a las fuentes).
-
 notebooks/: Jupyter Notebooks con el proceso de limpieza y análisis.
-
-scripts/: Consultas SQL y scripts de procesamiento.
-
 visuals/: Gráficos de barras, histogramas y diagramas de caja generados.
 
-📈 Hallazgos Principales (Ejemplos)
-Se identificó una correlación de X% entre el aumento del PIB regional y los retrasos en horas pico.
+📈 Hallazgos Principales 
+No se encontró una relación directa entre el PIB per cápita y la congestión vehicular. 
+Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
+Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público.
+Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.
 
-Las zonas con mayor desarrollo económico presentan una desviación estándar más alta en los tiempos de traslado.
+![Comportamiento de los minutos de congestion](//content/sample_data/grafico_boxplot.png)
 
-(Aquí puedes agregar una imagen de tu gráfico más importante).
 
 🚀 Cómo Ejecutar el Proyecto
-Clona el repositorio: git clone https://github.com/tu-usuario/nombre-repo.git
-
-Instala las dependencias: pip install -r requirements.txt
-
 Abre el archivo notebooks/analisis_principal.ipynb para ver el paso a paso.
