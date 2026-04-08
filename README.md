@@ -32,11 +32,11 @@ visuals/: Gráficos de barras, histogramas y boxplot generados.
 </p>
 No se encontró una relación directa entre el PIB per cápita y la congestión vehicular. 
 <p align="center">
-  <img src="/visuals/boxplot.png" alt="Movilidad vs Desarrollo Económico" width="100%">
+  <img src="/visuals/boxplot.png" alt="Análisis Exploratorio" width="100%">
 </p>
 Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
 <p align="center">
-  <img src="/visuals/histograma.png" alt="Retrasos vs PIB" width="100%">
+  <img src="/visuals/histograma.png" alt="Analizis de la distribución y el valor promedio del PIB per cápita." width="100%">
 </p>
 Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. 
 
