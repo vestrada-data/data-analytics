@@ -1,10 +1,50 @@
 # data-analytics-portfolio
-<p align="left">
-<img src="https://img.shields.io/badge/VERONICA-ESTRADA-blue">
-</p>
 
 ## Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta (o se ve impactado por) la eficiencia en el transporte.
 <p align="center">
   <img src="/visuals/banner_proyecto.png" alt="Movilidad vs Desarrollo Económico" width="100%">
 </p>
+📊 Descripción del Proyecto
+El objetivo principal es realizar un Análisis Exploratorio de Datos (EDA) para visualizar la distribución del PIB frente a las métricas de retraso, buscando patrones o correlaciones significativas que ayuden a la toma de decisiones estratégicas.
+
+🛠️ Herramientas Utilizadas
+Lenguaje: Python 3.x
+
+Librerías de Datos: Pandas, NumPy
+
+Visualización: Matplotlib, Seaborn
+
+Base de Datos: Python (Extracción y limpieza inicial)
+
+Documentación: Markdown
+
+📁 Estructura del Repositorio
+data/: Contiene los datasets originales (o enlaces a las fuentes).
+
+notebooks/: Jupyter Notebooks con el proceso de limpieza y análisis.
+
+visuals/: Gráficos de barras, histogramas y boxplot generados.
+
+📈 Hallazgos Principales 
+
+<p align="center">
+  <img src="/visuals/boxplot.png" alt="Movilidad vs Desarrollo Económico" width="100%">
+</p>
+No se encontró una relación directa entre el PIB per cápita y la congestión vehicular. 
+
+<p align="center">
+  <img src="/visuals/grafica.png" alt="Movilidad vs Desarrollo Económico" width="100%">
+</p>
+Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
+
+<p align="center">
+  <img src="/visuals/histograma.png" alt="Movilidad vs Desarrollo Económico" width="100%">
+</p>
+Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. 
+
+Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.
+
+🚀 Cómo Ejecutar el Proyecto
+
+Abre el archivo notebook/mobility_economy_project.ipynb para ver el paso a paso.
