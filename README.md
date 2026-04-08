@@ -2,10 +2,9 @@
 
 ## Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta (o se ve impactado por) la eficiencia en el transporte.
-![Distribución de retrasos y PIB](visuals/boxplot.png)
 
 <p align="center">
-  <img src="/visuals/banner_proyecto.png" alt="Movilidad vs Desarrollo Económico" width="100%">
+  <img src="visuals/banner_proyecto.png" alt="Movilidad vs Desarrollo Económico" width="100%">
 </p>
 
 ### 📊 Descripción del Proyecto
@@ -32,7 +31,7 @@ visuals/: Gráficos de barras, histogramas y boxplot generados.
 
 ### 📈 Hallazgos Principales 
 <p align="center">
-  <img src="/visuals/grafica.png" alt="Distribución del PIB percápita" width="100%">
+  <img src="visuals/grafica.png" alt="Distribución del PIB percápita" width="100%">
 </p>
 No se encontró una relación directa entre el PIB per cápita y la congestión vehicular. 
 <p align="center">
@@ -43,11 +42,11 @@ No se encontró una relación directa entre el PIB per cápita y la congestión 
 
 Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
 <p align="center">
-  <img src="/visuals/histograma.png" alt="Analizis de la distribución y el valor promedio del PIB per cápita." width="100%">
+  <img src="visuals/histograma.png" alt="Analizis de la distribución y el valor promedio del PIB per cápita." width="100%">
 </p>
 Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. 
 
 Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.
 
 ### 🚀 Cómo Ejecutar el Proyecto
-Abre el archivo notebook/mobility_economy_project.ipynb para ver el paso a paso.
+Abre el archivo ![Proyecto en Notebook](notebook/mobility_economy_project.ipynb) para ver el paso a paso.
