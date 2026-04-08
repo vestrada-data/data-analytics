@@ -45,5 +45,4 @@ Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de cong
 Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.
 
 ### 🚀 Cómo Ejecutar el Proyecto
-
 Abre el archivo notebook/mobility_economy_project.ipynb para ver el paso a paso.
