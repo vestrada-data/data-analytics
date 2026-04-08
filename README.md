@@ -34,8 +34,11 @@ visuals/: Gráficos de barras, histogramas y boxplot generados.
 </p>
 No se encontró una relación directa entre el PIB per cápita y la congestión vehicular. 
 <p align="center">
-  <img src="/visuals/boxplot.png" alt="Análisis Exploratorio" width="100%">
+  <img src="visuals/boxplot.png" width="500" title="Boxplot de Retrasos">
+  <br>
+  <b>Gráfico: Distribución de retrasos en movilidad (Minutos)</b>
 </p>
+
 Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
 <p align="center">
   <img src="/visuals/histograma.png" alt="Analizis de la distribución y el valor promedio del PIB per cápita." width="100%">
