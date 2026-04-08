@@ -5,10 +5,12 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 <p align="center">
   <img src="/visuals/banner_proyecto.png" alt="Movilidad vs Desarrollo Económico" width="100%">
 </p>
-📊 ###Descripción del Proyecto
+
+### 📊 Descripción del Proyecto
+
 El objetivo principal es realizar un Análisis Exploratorio de Datos (EDA) para visualizar la distribución del PIB frente a las métricas de retraso, buscando patrones o correlaciones significativas que ayuden a la toma de decisiones estratégicas.
 
-🛠️###Herramientas Utilizadas
+### 🛠️ Herramientas Utilizadas
 Lenguaje: Python 3.x
 
 Librerías de Datos: Pandas, NumPy
@@ -19,14 +21,14 @@ Base de Datos: Python (Extracción y limpieza inicial)
 
 Documentación: Markdown
 
-📁 #Estructura del Repositorio
+### 📁 Estructura del Repositorio
 data/: Contiene los datasets originales (o enlaces a las fuentes).
 
 notebooks/: Jupyter Notebooks con el proceso de limpieza y análisis.
 
 visuals/: Gráficos de barras, histogramas y boxplot generados.
 
-📈 ###Hallazgos Principales 
+### 📈 Hallazgos Principales 
 <p align="center">
   <img src="/visuals/grafica.png" alt="Distribución del PIB percápita" width="100%">
 </p>
@@ -42,6 +44,6 @@ Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de cong
 
 Por otro lado, ciudades como Santiago muestran baja congestión vehicular y alto PIB, funcionando como un caso más eficiente.
 
-🚀 #Cómo Ejecutar el Proyecto
+### 🚀 Cómo Ejecutar el Proyecto
 
 Abre el archivo notebook/mobility_economy_project.ipynb para ver el paso a paso.
