@@ -1,4 +1,3 @@
-# data-analytics-portfolio
 
 ## Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta (o se ve impactado por) la eficiencia en el transporte.
